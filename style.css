@@ -14,3 +14,8 @@ footer {
   height: 60px;
   background-color: #ec715f;
 }
+
+.main-visual {
+  height: 650px;
+  background-image: url(img/mv.png);
+}
